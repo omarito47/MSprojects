@@ -1,0 +1,8 @@
+tn\starter\shared\dto\EtudiantDTO.class
+tn\starter\shared\dto\FoyerDTO.class
+tn\starter\shared\entity\BaseEntity.class
+tn\starter\shared\mapper\GenericMapper.class
+tn\starter\shared\repository\BaseRepository.class
+tn\starter\shared\service\IGenericService.class
+tn\starter\shared\controller\GenericController.class
+tn\starter\shared\service\IGenericServiceImpl.class

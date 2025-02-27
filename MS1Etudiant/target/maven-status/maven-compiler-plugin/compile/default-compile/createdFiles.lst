@@ -1,0 +1,9 @@
+esprit\tn\ms1etudiant\service\EtudiantServiceImpl.class
+esprit\tn\ms1etudiant\service\IEtudiantService.class
+esprit\tn\ms1etudiant\entity\Etudiant.class
+esprit\tn\ms1etudiant\Mapper\EtudiantMapperImpl.class
+esprit\tn\ms1etudiant\repository\EtudiantRepository.class
+esprit\tn\ms1etudiant\Mapper\EtudiantMapper.class
+esprit\tn\ms1etudiant\feignClient\FoyerClient.class
+esprit\tn\ms1etudiant\Ms1EtudiantApplication.class
+esprit\tn\ms1etudiant\controller\EtudiantController.class

@@ -1,0 +1,8 @@
+esprit\tn\ms2foyer\entity\Foyer.class
+esprit\tn\ms2foyer\mapper\FoyerMapperImpl.class
+esprit\tn\ms2foyer\controller\FoyerController.class
+esprit\tn\ms2foyer\mapper\FoyerMapper.class
+esprit\tn\ms2foyer\service\FoyerServiceImpl.class
+esprit\tn\ms2foyer\service\IFoyerService.class
+esprit\tn\ms2foyer\Ms2FoyerApplication.class
+esprit\tn\ms2foyer\repository\FoyerRepository.class
